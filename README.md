@@ -7,7 +7,6 @@
 - Statement of Applicability (SoA)
 - PDCA Cycle mapping
 - Internal Audit Checklist
-- GAP Analysis against ISO 27001
 
 ## Purpose
 Built as a hands-on GRC portfolio project while studying ISO 27001.
